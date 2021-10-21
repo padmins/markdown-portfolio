@@ -1,1 +1,1 @@
-![Padmini's Page] (https://www.textgiraffe.com/Name-Generator?text=Padmini)
+![Padmini's Page] (https://octodex.github.com/images/yaktocat.png)
