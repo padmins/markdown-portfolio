@@ -1,1 +1,1 @@
-![Padmini's Image] (https://octodex.github.com/images/yaktocat.png)
+![Padmini's Page] (https://octodex.github.com/images/yaktocat.png)
