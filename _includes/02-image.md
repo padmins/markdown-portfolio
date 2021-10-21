@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Padmini's Page] (https://www.textgiraffe.com/Name-Generator?text=Padmini)
